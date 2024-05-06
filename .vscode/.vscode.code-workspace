@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../__MACOSX"
+		},
+		{
+			"path": "../migrations"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../src"
+		},
+		{
+			"path": "../uts-midtest-backend-programming-template"
+		}
+	]
+}
